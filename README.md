@@ -1,4 +1,5 @@
 # SCP - Containment Breach mod
+The mind of a schizophrenic SCP Edition
 
 The game is based on the works of the SCP Foundation community (http://www.scp-wiki.net/).
 
